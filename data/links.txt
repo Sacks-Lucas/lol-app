@@ -1,0 +1,11 @@
+Link Pagina con los datos:https://developer.riotgames.com/
+
+patch={11.12.1}
+
+Lista de Campeones: http://ddragon.leagueoflegends.com/cdn/{$patch}/data/en_US/champion.json
+
+Lista de un Campeon Especifico(lore,skins,etc): http://ddragon.leagueoflegends.com/cdn/{$patch}/data/en_US/champion/{$champion}.json
+
+Staus jugadores challenger(segun region): https://la2.api.riotgames.com/lol/league/v4/challengerleagues/by-queue/RANKED_SOLO_5x5?api_key={$api_key}
+
+Rotacion Semanal de campeones: https://la2.api.riotgames.com/lol/platform/v3/champion-rotations?api_key={$api_key}
